@@ -10,7 +10,7 @@ Compared the performance of the modified model with the original SkateFormer.
 ## <div align="center">Data flow for preprocessing and training</div>
 <div align="center">
   <a href="https://roboflow.com/?ref=ultralytics">
-    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_network_structure.png" width="90%" /></a>
+    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_network_structure.png" width="70%" /></a>
 </div>
 
 ## <div align="center">Network Sturcture</div>
@@ -22,7 +22,7 @@ Compared the performance of the modified model with the original SkateFormer.
 ## <div align="center">Result Comprison</div>
 <div align="center">
   <a href="https://roboflow.com/?ref=ultralytics">
-    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/model%20compare%20workflow.png" width="90%" /></a>
+    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/model%20compare%20workflow.png" width="70%" /></a>
 </div>
 
 ### Installation
