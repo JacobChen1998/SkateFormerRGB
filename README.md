@@ -13,10 +13,10 @@ Compared the performance of the modified model with the original SkateFormer.
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_network_structure.png" width="90%" /></a>
 </div>
 
-## <div align="center">etwork Sturcture</div>
+## <div align="center">Network Sturcture</div>
 <div align="center">
   <a href="https://roboflow.com/?ref=ultralytics">
-    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_dataPreprocess_training.png" width="90%" /></a>
+    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_dataPreprocess_training.png" width="70%" /></a>
 </div>
 
 ## <div align="center">Result Comprison</div>
