@@ -29,7 +29,7 @@ In this repository, we implement the integration of RGB information into SkateFo
 
 | Model       | Validation Accuracy (%) | Parameters (M) | 
 | -----------------------------------   | ---- |--- |
-| SkateFormer 25 keypoints              |  92.2  |  2.02  |
+| SkateFormer 25 keypoints              |  [89.8](https://paperswithcode.com/paper/skateformer-skeletal-temporal-transformer-for)  |  2.02  |
 | SkateFormer 17 keypoints  (our)       |  -  |  -  |
 | SkateFormerRGB 17 keypoints (our)     |  -  |  -  |
 
