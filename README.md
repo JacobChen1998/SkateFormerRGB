@@ -25,8 +25,10 @@ In this repository, we implement the integration of RGB information into SkateFo
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/model%20compare%20workflow.png" width="70%" /></a>
 </div>
 
-### Installation
-```bash
-git clone https://github.com/JacobChen1998/SkateFormerRGB.git
-[TODO]
-```
+### Result
+
+| Model | Training Accuracy | Validation Accuracy | arameters | 
+| ----------------------------------- | ---- | ---- |--- |
+| SkateFormer 25 keypoints            | -    |  -  |  -  |
+| SkateFormer 17 keypoints  (our)     | -    |  -  |  -  |
+| SkateFormerRGB 17 keypoints (our)   | -    |  -  |  -  |
