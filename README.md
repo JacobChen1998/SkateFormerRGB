@@ -25,13 +25,13 @@ In this repository, we implement the integration of RGB information into SkateFo
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/model%20compare%20workflow.png" width="70%" /></a>
 </div>
 
-### Result
+### Result (RTU-RGBD 120 dataset (X-Sub) )
 
-| Model | Training Accuracy | Validation Accuracy | arameters | 
-| ----------------------------------- | ---- | ---- |--- |
-| SkateFormer 25 keypoints            | -    |  -  |  -  |
-| SkateFormer 17 keypoints  (our)     | -    |  -  |  -  |
-| SkateFormerRGB 17 keypoints (our)   | -    |  -  |  -  |
+| Model       | Validation Accuracy (%) | Parameters (M) | 
+| -----------------------------------   | ---- |--- |
+| SkateFormer 25 keypoints              |  92.2  |  2.02  |
+| SkateFormer 17 keypoints  (our)       |  -  |  -  |
+| SkateFormerRGB 17 keypoints (our)     |  -  |  -  |
 
 ### Acknowledgement
 This repository is built upon [SkateFormer](https://github.com/KAIST-VICLab/SkateFormer).
