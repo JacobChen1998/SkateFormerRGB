@@ -32,3 +32,6 @@ In this repository, we implement the integration of RGB information into SkateFo
 | SkateFormer 25 keypoints            | -    |  -  |  -  |
 | SkateFormer 17 keypoints  (our)     | -    |  -  |  -  |
 | SkateFormerRGB 17 keypoints (our)   | -    |  -  |  -  |
+
+### Acknowledgement
+This repository is built upon [SkateFormer](https://github.com/KAIST-VICLab/SkateFormer).
