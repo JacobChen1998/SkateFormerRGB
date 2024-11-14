@@ -2,10 +2,10 @@
 
 In this repository, we implement the integration of RGB information into SkateFormer for multi-person action recognition. Our contributions are as follows:
 
-Modified the original 25 keypoints to 17 keypoints (COCO format).
-Added an RGB feature extractor to the network architecture and performed fusion with skeleton information.
-Described the process for using YOLOv8-Pose to collect skeleton/RGB data.
-Compared the performance of the modified model with the original SkateFormer.
+1. Modified the original 25 keypoints to 17 keypoints (COCO format).
+2. Added an RGB feature extractor to the network architecture and performed fusion with skeleton information.
+3. Described the process for using YOLOv8-Pose to collect skeleton/RGB data.
+4. Compared the performance of the modified model with the original SkateFormer.
 
 ## <div align="center">Data flow for preprocessing and training</div>
 <div align="center">
