@@ -25,13 +25,13 @@ In this repository, we implement the integration of RGB information into SkateFo
 | ---------------------------------------- | --------------------------------------------------- | ------------------------ |
 | <center>STGCN (PYSKL)                    </center> | <center>[84.7](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1)</center> | <center>1.41</center>       |
 | <center>SkateFormer 25 keypoints         </center> | <center>[89.8](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1)</center> | <center>2.02</center>    |
-| <center>SkateFormerRGB 17 keypoints (our)</center> | <center>93.2</center>                                                                                    | <center>3.75</center>       |
+| <center>SkateFormerRGB 17 keypoints (our)</center> | <center>95.81</center>                                                                                    | <center>3.75</center>       |
 
 </div>
 
 <div align="center">
-  <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/Compare_ConfidenceThreshold_and_Accuracy.png" width="50%" /></a>
-  <p>Figure : Validation Accuracy that model trained with 90 epochs</p>
+  <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/BestValidationResult.png" width="50%" /></a>
+  <p>Figure : Validation Accuracy that model trained with 90 epochs (we using value generated on SkateFormer origin eval function )</p>
 </div>
 
 
