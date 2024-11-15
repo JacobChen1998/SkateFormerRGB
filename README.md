@@ -7,10 +7,13 @@ In this repository, we implement the integration of RGB information into SkateFo
 3. Described the process for using YOLOv8-Pose to collect skeleton/RGB data.
 4. Compared the performance of the modified model with the original SkateFormer.
 
-## <div align="center">Data flow for preprocessing and training</div>
+## <div align="center">Network structure</div>
+
 <div align="center">
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_network_structure.png" width="70%" /></a>
 </div>
+
+## <div align="center">Data flow for preprocessing and training</div>
 
 <div align="center">
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_dataPreprocess_training.png" width="70%" /></a>
