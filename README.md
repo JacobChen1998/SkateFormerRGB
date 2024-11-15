@@ -22,7 +22,7 @@ In this repository, we implement the integration of RGB information into SkateFo
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/model%20compare%20workflow.png" width="70%" /></a>
 </div>
 
-### Result (RTU-RGBD 120 dataset (X-Sub) )
+## <div align="center">Result</div>
 
 <div align="center">
     
@@ -35,9 +35,7 @@ In this repository, we implement the integration of RGB information into SkateFo
 
 </div>
 
-
-
-<div align="left">
+<div align="center">
   <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/Compare_ConfidenceThreshold_and_Accuracy.png" width="50%" /></a>
 </div>
 
