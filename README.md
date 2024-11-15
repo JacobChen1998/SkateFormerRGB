@@ -32,7 +32,15 @@ In this repository, we implement the integration of RGB information into SkateFo
 | ST-GCN                                |  [83.7](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1)  |  -  |
 | SkateFormer 25 keypoints              |  [89.8](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1)  |  2.02  |
 | SkateFormer 17 keypoints  (our)       |  -  |  -  |
-| SkateFormerRGB 17 keypoints (our)     |  -  |  -  |
+| SkateFormerRGB 17 keypoints (our)     |  93.2  |  -  |
+
+
+## <div align="center">Result Comprison</div>
+<div align="center">
+  <a href="https://roboflow.com/?ref=ultralytics">
+    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/Compare_ConfidenceThreshold_and_Accuracy.png" width="70%" /></a>
+</div>
+
 
 ### Acknowledgement
 This repository is built upon [SkateFormer](https://github.com/KAIST-VICLab/SkateFormer).
