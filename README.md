@@ -36,6 +36,7 @@ In this repository, we implement the integration of RGB information into SkateFo
 
 <div align="center">
   <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/Compare_ConfidenceThreshold_and_Accuracy.png" width="50%" /></a>
+  <p>Figure : Validation Accuracy that model trained with 90 epochs</p>
 </div>
 
 
