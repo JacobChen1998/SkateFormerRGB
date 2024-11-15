@@ -17,11 +17,6 @@ In this repository, we implement the integration of RGB information into SkateFo
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_dataPreprocess_training.png" width="70%" /></a>
 </div>
 
-## <div align="center">Result Comprison</div>
-<div align="center">
-    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/model%20compare%20workflow.png" width="70%" /></a>
-</div>
-
 ## <div align="center">Result (Skeleton Based Action Recognition on NTU RGB+D 120)</div>
 
 <div align="center">
