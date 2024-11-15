@@ -19,6 +19,7 @@ In this repository, we implement the integration of RGB information into SkateFo
 
 <div align="center">
 <p>Table :Result (Skeleton Based Action Recognition on NTU RGB+D 120) </p>
+    
 | Model                                    | Validation Accuracy (%)                             | Parameters (M)          |
 | ---------------------------------------- | --------------------------------------------------- | ------------------------ |
 | <center>STGCN (PYSKL)                    </center> | <center>[84.7](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1)</center> | <center>1.41</center>       |
