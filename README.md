@@ -17,8 +17,10 @@ In this repository, we implement the integration of RGB information into SkateFo
     <p>Figure : Network Sturcture of SkateFormerRGB (we using value generated on SkateFormer origin eval function )</p>
 </div>
 
+## <div align="center">Result</div>
+
 <div align="center">
-<p>Table :Result (Skeleton Based Action Recognition on NTU RGB+D 120) </p>
+<p>Table : Skeleton Based Action Recognition on NTU RGB+D 120 </p>
     
 | Model                                    | Validation Accuracy (%)                             | Parameters (M)          |
 | ---------------------------------------- | --------------------------------------------------- | ------------------------ |
