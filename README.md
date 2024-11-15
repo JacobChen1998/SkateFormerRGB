@@ -24,12 +24,14 @@ In this repository, we implement the integration of RGB information into SkateFo
 
 ### Result (RTU-RGBD 120 dataset (X-Sub) )
 
+<div align="center">
 | Model                                    | Validation Accuracy (%)                             | Parameters (M)          |
 | ---------------------------------------- | --------------------------------------------------- | ------------------------ |
 | <center>ST-GCN</center>                  | <center>[83.7](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1)</center> | <center>-</center>       |
 | <center>SkateFormer 25 keypoints</center>| <center>[89.8](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1)</center> | <center>2.02</center>    |
 | <center>SkateFormer 17 keypoints (our)</center> | <center>-</center>    | <center>-</center>       |
 | <center>SkateFormerRGB 17 keypoints (our)</center> | <center>93.2</center> | <center>-</center>       |
+</div>
 
 
 
