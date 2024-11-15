@@ -1,5 +1,7 @@
 # SkateFormerRGB
 
+Action recognition has always been a highly challenging task. Today’s advanced technologies include RGB-based and skeleton-based action recognition. Skeleton-based action recognition can achieve real-time, multi-person action recognition, but it lacks the ability to reference interactions between people and objects. While RGB-based full-image action detection is accurate, it is nearly impossible to achieve real-time, multi-person action recognition. Based on these characteristics, we have referenced the SkateFormer architecture, integrating person-region images for training, and achieved state-of-the-art results.
+
 In this repository, we implement the integration of RGB information into SkateFormer for multi-person action recognition. Our contributions are as follows:
 
 1. Modified the original 25 keypoints to 17 keypoints (COCO format).
