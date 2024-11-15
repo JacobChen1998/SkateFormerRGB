@@ -12,15 +12,13 @@ In this repository, we implement the integration of RGB information into SkateFo
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_network_structure.png" width="70%" /></a>
 </div>
 
-## <div align="center">Network Sturcture</div>
 <div align="center">
     <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/SkateFormerRGB_dataPreprocess_training.png" width="70%" /></a>
+    <p>Figure : Network Sturcture of SkateFormerRGB (we using value generated on SkateFormer origin eval function )</p>
 </div>
 
-## <div align="center">Result (Skeleton Based Action Recognition on NTU RGB+D 120)</div>
-
 <div align="center">
-    
+<p>Table :Result (Skeleton Based Action Recognition on NTU RGB+D 120) </p>
 | Model                                    | Validation Accuracy (%)                             | Parameters (M)          |
 | ---------------------------------------- | --------------------------------------------------- | ------------------------ |
 | <center>STGCN (PYSKL)                    </center> | <center>[84.7](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1)</center> | <center>1.41</center>       |
