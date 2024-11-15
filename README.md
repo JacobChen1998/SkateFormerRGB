@@ -35,8 +35,7 @@ In this repository, we implement the integration of RGB information into SkateFo
 | SkateFormerRGB 17 keypoints (our)     |  93.2  |  -  |
 
 <div align="left">
-  <a href="https://roboflow.com/?ref=ultralytics">
-    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/Compare_ConfidenceThreshold_and_Accuracy.png" width="50%" /></a>
+  <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/Compare_ConfidenceThreshold_and_Accuracy.png" width="50%" /></a>
 </div>
 
 
