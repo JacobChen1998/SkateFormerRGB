@@ -36,9 +36,9 @@ In this repository, we implement the integration of RGB information into SkateFo
 
 
 ## <div align="center">Result Comprison</div>
-<div align="center">
+<div align="left">
   <a href="https://roboflow.com/?ref=ultralytics">
-    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/Compare_ConfidenceThreshold_and_Accuracy.png" width="70%" /></a>
+    <img src="https://github.com/JacobChen1998/SkateFormerRGB/blob/main/figures/Compare_ConfidenceThreshold_and_Accuracy.png" width="40%" /></a>
 </div>
 
 
